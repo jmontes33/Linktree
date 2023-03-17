@@ -5,25 +5,25 @@ const items = [
   {
     image: "src/assets/icons8-instagram-100.png",
     name: "Instagram",
-    link: "https://www.instagram.com/elrincondeldev/",
+    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-instagram-100.png?raw=true",
   },
   {
     image: "src/assets/icons8-tik-tok-100.png",
     name: "TikTok",
-    link: "https://www.tiktok.com/@elrincondeldev",
+    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-tik-tok-100.png?raw=true",
   },
   {
     image: "src/assets/icons8-twitch-100.png",
     name: "Twitch",
-    link: "https://www.twitch.tv/elrincondeldev",
+    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-twitch-100.png?raw=true",
   },
   {
     image: "src/assets/icons8-youtube-play-100.png",
     name: "Youtube",
-    link: "https://www.youtube.com/channel/UCWn_0MmgojB711LFX-jaCDQ",
+    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-youtube-play-100.png?raw=true",
   },
   {
-    image: "src/assets/icons8-currículum-100.png",
+    image: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-curr%C3%ADculum-100.png?raw=true",
     name: "Mi portfolio",
     link: "https://portfolio-joser.vercel.app/",
   },
