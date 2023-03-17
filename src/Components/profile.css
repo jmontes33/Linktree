@@ -1,0 +1,29 @@
+.profile-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 50%;
+    height: 15em;
+}
+
+h2 {
+    margin-bottom: 0;  
+}
+
+@media all and (max-width: 690px) {
+    img {
+        height: 10em;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+}
