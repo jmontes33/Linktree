@@ -3,24 +3,24 @@ import "./items.css";
 
 const items = [
   {
-    image: "src/assets/icons8-instagram-100.png",
+    image: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-instagram-100.png?raw=true",
     name: "Instagram",
-    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-instagram-100.png?raw=true",
+    link: "https://www.instagram.com/elrincondeldev/",
   },
   {
-    image: "src/assets/icons8-tik-tok-100.png",
+    image: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-tik-tok-100.png?raw=true",
     name: "TikTok",
-    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-tik-tok-100.png?raw=true",
+    link: "https://www.tiktok.com/@elrincondeldev",
   },
   {
-    image: "src/assets/icons8-twitch-100.png",
+    image: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-twitch-100.png?raw=true",
     name: "Twitch",
-    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-twitch-100.png?raw=true",
+    link: "https://www.twitch.tv/elrincondeldev",
   },
   {
-    image: "src/assets/icons8-youtube-play-100.png",
+    image: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-youtube-play-100.png?raw=true",
     name: "Youtube",
-    link: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-youtube-play-100.png?raw=true",
+    link: "https://www.youtube.com/channel/UCWn_0MmgojB711LFX-jaCDQ",
   },
   {
     image: "https://github.com/jmontes33/Linktree/blob/main/src/assets/icons8-curr%C3%ADculum-100.png?raw=true",
